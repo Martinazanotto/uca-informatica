@@ -1,0 +1,8 @@
+a = input("ingrese valor")
+b = input("ingrese segundo valor")
+if a=b:
+    print("el primer valor es mayor")
+elif b>a:
+    print("el segundo valor es mayor")
+elif a==b:
+    print("los valores son iguales")
