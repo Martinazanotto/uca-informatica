@@ -1,0 +1,10 @@
+calificacion=100
+if calificacion >= 90:
+    print("excelente")
+elif calificacion >= 80:
+    print("muy bueno")
+elif calificacion >= 70:
+    print("bueno")
+elif calificacion <70:
+    print("necesita mejorar")
+    
