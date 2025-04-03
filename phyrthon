@@ -1,0 +1,9 @@
+a = input("ingrese valor")
+b = input("ingrese segundo valor")
+
+#invertir valores
+
+#mostrar nuevos resultados
+
+print("el nuevo valor de a es: {b}")
+print("el nuevo valor de b es: {a}")
